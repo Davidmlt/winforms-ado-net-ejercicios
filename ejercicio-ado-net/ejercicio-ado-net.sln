@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{79E0BE68-8D9B-45BE-B1B6-A2CAE3A28905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{FAC89661-D60C-4CFA-ACF8-2B26AED09AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform-app", "winform-app\winform-app.csproj", "{B256EB97-8EE5-4AD7-BD76-5D68F7344F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79E0BE68-8D9B-45BE-B1B6-A2CAE3A28905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E0BE68-8D9B-45BE-B1B6-A2CAE3A28905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E0BE68-8D9B-45BE-B1B6-A2CAE3A28905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E0BE68-8D9B-45BE-B1B6-A2CAE3A28905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC89661-D60C-4CFA-ACF8-2B26AED09AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC89661-D60C-4CFA-ACF8-2B26AED09AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC89661-D60C-4CFA-ACF8-2B26AED09AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC89661-D60C-4CFA-ACF8-2B26AED09AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B256EB97-8EE5-4AD7-BD76-5D68F7344F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B256EB97-8EE5-4AD7-BD76-5D68F7344F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B256EB97-8EE5-4AD7-BD76-5D68F7344F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B256EB97-8EE5-4AD7-BD76-5D68F7344F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EEE2578-A644-45E6-9C50-C6A36DD92760}
+	EndGlobalSection
+EndGlobal
